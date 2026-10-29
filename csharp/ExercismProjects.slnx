@@ -20,6 +20,9 @@
   <Folder Name="/jedliks-toys/">
     <Project Path="jedliks-toys/JedliksToys.csproj" />
   </Folder>
+  <Folder Name="/logs-logs-logs/">
+    <Project Path="logs-logs-logs/LogsLogsLogs.csproj" />
+  </Folder>
   <Folder Name="/lucians-luscious-lasagna/">
     <Project Path="lucians-luscious-lasagna/LuciansLusciousLasagna.csproj" />
   </Folder>
