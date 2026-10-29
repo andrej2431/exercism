@@ -23,6 +23,9 @@
   <Folder Name="/hello-world/">
     <Project Path="hello-world/HelloWorld.csproj" />
   </Folder>
+  <Folder Name="/interest-is-interesting/">
+    <Project Path="interest-is-interesting/InterestIsInteresting.csproj" />
+  </Folder>
   <Folder Name="/international-calling-connoisseur/">
     <Project Path="international-calling-connoisseur/InternationalCallingConnoisseur.csproj" />
   </Folder>
