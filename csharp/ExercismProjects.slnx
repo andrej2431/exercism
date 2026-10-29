@@ -41,4 +41,7 @@
   <Folder Name="/squeaky-clean/">
     <Project Path="squeaky-clean/SqueakyClean.csproj" />
   </Folder>
+  <Folder Name="/the-weather-in-deather/">
+    <Project Path="the-weather-in-deather/TheWeatherInDeather.csproj" />
+  </Folder>
 </Solution>
