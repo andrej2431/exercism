@@ -8,8 +8,14 @@
   <Folder Name="/bird-watcher/">
     <Project Path="bird-watcher/BirdWatcher.csproj" />
   </Folder>
+  <Folder Name="/booking-up-for-beauty/">
+    <Project Path="booking-up-for-beauty/BookingUpForBeauty.csproj" />
+  </Folder>
   <Folder Name="/hello-world/">
     <Project Path="hello-world/HelloWorld.csproj" />
+  </Folder>
+  <Folder Name="/international-calling-connoisseur/">
+    <Project Path="international-calling-connoisseur/InternationalCallingConnoisseur.csproj" />
   </Folder>
   <Folder Name="/jedliks-toys/">
     <Project Path="jedliks-toys/JedliksToys.csproj" />
