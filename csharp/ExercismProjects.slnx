@@ -11,6 +11,9 @@
   <Folder Name="/booking-up-for-beauty/">
     <Project Path="booking-up-for-beauty/BookingUpForBeauty.csproj" />
   </Folder>
+  <Folder Name="/faceid-2/">
+    <Project Path="faceid-2/Faceid2.csproj" />
+  </Folder>
   <Folder Name="/hello-world/">
     <Project Path="hello-world/HelloWorld.csproj" />
   </Folder>
