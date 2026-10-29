@@ -17,6 +17,9 @@
   <Folder Name="/lucians-luscious-lasagna/">
     <Project Path="lucians-luscious-lasagna/LuciansLusciousLasagna.csproj" />
   </Folder>
+  <Folder Name="/need-for-speed/">
+    <Project Path="need-for-speed/NeedForSpeed.csproj" />
+  </Folder>
   <Folder Name="/secure-munchester-united/">
     <Project Path="secure-munchester-united/SecureMunchesterUnited.csproj" />
   </Folder>
