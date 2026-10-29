@@ -2,6 +2,9 @@
   <Folder Name="/annalyns-infiltration/">
     <Project Path="annalyns-infiltration/AnnalynsInfiltration.csproj" />
   </Folder>
+  <Folder Name="/authentication-system/">
+    <Project Path="authentication-system/AuthenticationSystem.csproj" />
+  </Folder>
   <Folder Name="/bird-watcher/">
     <Project Path="bird-watcher/BirdWatcher.csproj" />
   </Folder>
