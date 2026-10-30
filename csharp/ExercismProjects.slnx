@@ -20,6 +20,9 @@
   <Folder Name="/cars-assemble/">
     <Project Path="cars-assemble/CarsAssemble.csproj" />
   </Folder>
+  <Folder Name="/developer-privileges/">
+    <Project Path="developer-privileges/DeveloperPrivileges.csproj" />
+  </Folder>
   <Folder Name="/faceid-2/">
     <Project Path="faceid-2/Faceid2.csproj" />
   </Folder>
