@@ -44,6 +44,9 @@
   <Folder Name="/high-school-sweethearts/">
     <Project Path="high-school-sweethearts/HighSchoolSweethearts.csproj" />
   </Folder>
+  <Folder Name="/high-scores/">
+    <Project Path="high-scores/HighScores.csproj" />
+  </Folder>
   <Folder Name="/hyper-optimized-telemetry/">
     <Project Path="hyper-optimized-telemetry/HyperOptimizedTelemetry.csproj" />
   </Folder>
