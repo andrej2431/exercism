@@ -32,6 +32,9 @@
   <Folder Name="/hyper-optimized-telemetry/">
     <Project Path="hyper-optimized-telemetry/HyperOptimizedTelemetry.csproj" />
   </Folder>
+  <Folder Name="/hyperia-forex/">
+    <Project Path="hyperia-forex/HyperiaForex.csproj" />
+  </Folder>
   <Folder Name="/interest-is-interesting/">
     <Project Path="interest-is-interesting/InterestIsInteresting.csproj" />
   </Folder>
