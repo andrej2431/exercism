@@ -32,6 +32,9 @@
   <Folder Name="/hello-world/">
     <Project Path="hello-world/HelloWorld.csproj" />
   </Folder>
+  <Folder Name="/high-school-sweethearts/">
+    <Project Path="high-school-sweethearts/HighSchoolSweethearts.csproj" />
+  </Folder>
   <Folder Name="/hyper-optimized-telemetry/">
     <Project Path="hyper-optimized-telemetry/HyperOptimizedTelemetry.csproj" />
   </Folder>
