@@ -35,6 +35,9 @@
   <Folder Name="/football-match-reports/">
     <Project Path="football-match-reports/FootballMatchReports.csproj" />
   </Folder>
+  <Folder Name="/gigasecond/">
+    <Project Path="gigasecond/Gigasecond.csproj" />
+  </Folder>
   <Folder Name="/hello-world/">
     <Project Path="hello-world/HelloWorld.csproj" />
   </Folder>
