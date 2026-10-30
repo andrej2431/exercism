@@ -83,6 +83,9 @@
   <Folder Name="/parsing-log-files/">
     <Project Path="parsing-log-files/ParsingLogFiles.csproj" />
   </Folder>
+  <Folder Name="/phone-number-analysis/">
+    <Project Path="phone-number-analysis/PhoneNumberAnalysis.csproj" />
+  </Folder>
   <Folder Name="/red-vs-blue-darwin-style/">
     <Project Path="red-vs-blue-darwin-style/RedVsBlueDarwinStyle.csproj" />
   </Folder>
