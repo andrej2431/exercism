@@ -8,6 +8,9 @@
   <Folder Name="/authentication-system/">
     <Project Path="authentication-system/AuthenticationSystem.csproj" />
   </Folder>
+  <Folder Name="/beauty-salon-goes-global/">
+    <Project Path="beauty-salon-goes-global/BeautySalonGoesGlobal.csproj" />
+  </Folder>
   <Folder Name="/bird-watcher/">
     <Project Path="bird-watcher/BirdWatcher.csproj" />
   </Folder>
