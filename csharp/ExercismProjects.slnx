@@ -50,6 +50,9 @@
   <Folder Name="/hyperinflation-hits-hyperia/">
     <Project Path="hyperinflation-hits-hyperia/HyperinflationHitsHyperia.csproj" />
   </Folder>
+  <Folder Name="/instruments-of-texas/">
+    <Project Path="instruments-of-texas/InstrumentsOfTexas.csproj" />
+  </Folder>
   <Folder Name="/interest-is-interesting/">
     <Project Path="interest-is-interesting/InterestIsInteresting.csproj" />
   </Folder>
