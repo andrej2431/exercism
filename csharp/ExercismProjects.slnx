@@ -56,6 +56,9 @@
   <Folder Name="/the-weather-in-deather/">
     <Project Path="the-weather-in-deather/TheWeatherInDeather.csproj" />
   </Folder>
+  <Folder Name="/tracks-on-tracks-on-tracks/">
+    <Project Path="tracks-on-tracks-on-tracks/TracksOnTracksOnTracks.csproj" />
+  </Folder>
   <Folder Name="/wizards-and-warriors/">
     <Project Path="wizards-and-warriors/WizardsAndWarriors.csproj" />
   </Folder>
