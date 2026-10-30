@@ -68,6 +68,9 @@
   <Folder Name="/leap/">
     <Project Path="leap/Leap.csproj" />
   </Folder>
+  <Folder Name="/line-up/">
+    <Project Path="line-up/LineUp.csproj" />
+  </Folder>
   <Folder Name="/log-analysis/">
     <Project Path="log-analysis/LogAnalysis.csproj" />
   </Folder>
