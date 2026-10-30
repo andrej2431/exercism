@@ -62,6 +62,9 @@
   <Folder Name="/object-relational-mapping/">
     <Project Path="object-relational-mapping/ObjectRelationalMapping.csproj" />
   </Folder>
+  <Folder Name="/orm-in-one-go/">
+    <Project Path="orm-in-one-go/OrmInOneGo.csproj" />
+  </Folder>
   <Folder Name="/parsing-log-files/">
     <Project Path="parsing-log-files/ParsingLogFiles.csproj" />
   </Folder>
