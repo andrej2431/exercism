@@ -14,6 +14,9 @@
   <Folder Name="/booking-up-for-beauty/">
     <Project Path="booking-up-for-beauty/BookingUpForBeauty.csproj" />
   </Folder>
+  <Folder Name="/building-telemetry/">
+    <Project Path="building-telemetry/BuildingTelemetry.csproj" />
+  </Folder>
   <Folder Name="/calculator-conundrum/">
     <Project Path="calculator-conundrum/CalculatorConundrum.csproj" />
   </Folder>
