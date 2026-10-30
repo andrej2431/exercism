@@ -47,6 +47,9 @@
   <Folder Name="/red-vs-blue-darwin-style/">
     <Project Path="red-vs-blue-darwin-style/RedVsBlueDarwinStyle.csproj" />
   </Folder>
+  <Folder Name="/remote-control-cleanup/">
+    <Project Path="remote-control-cleanup/RemoteControlCleanup.csproj" />
+  </Folder>
   <Folder Name="/remote-control-competition/">
     <Project Path="remote-control-competition/RemoteControlCompetition.csproj" />
   </Folder>
