@@ -59,6 +59,9 @@
   <Folder Name="/need-for-speed/">
     <Project Path="need-for-speed/NeedForSpeed.csproj" />
   </Folder>
+  <Folder Name="/object-relational-mapping/">
+    <Project Path="object-relational-mapping/ObjectRelationalMapping.csproj" />
+  </Folder>
   <Folder Name="/parsing-log-files/">
     <Project Path="parsing-log-files/ParsingLogFiles.csproj" />
   </Folder>
