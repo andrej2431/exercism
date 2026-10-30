@@ -59,6 +59,9 @@
   <Folder Name="/tracks-on-tracks-on-tracks/">
     <Project Path="tracks-on-tracks-on-tracks/TracksOnTracksOnTracks.csproj" />
   </Folder>
+  <Folder Name="/wizards-and-warriors-2/">
+    <Project Path="wizards-and-warriors-2/WizardsAndWarriors2.csproj" />
+  </Folder>
   <Folder Name="/wizards-and-warriors/">
     <Project Path="wizards-and-warriors/WizardsAndWarriors.csproj" />
   </Folder>
