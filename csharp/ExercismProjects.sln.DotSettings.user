@@ -5,5 +5,7 @@
   &lt;TestAncestor&gt;
     &lt;TestId&gt;xUnit::1D60AF32-82CB-4F93-3CE2-7797E2D69CE8::net10.0::Faceid2Tests.IsRegistered_existing_identity&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::1D60AF32-82CB-4F93-3CE2-7797E2D69CE8::net10.0::Faceid2Tests.IsAdmin_with_admin&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::3F47897F-3400-30AC-0FB0-B30C14432958::net10.0::HyperOptimizedTelemetryTests.ToBuffer_lower_neg_short&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::3F47897F-3400-30AC-0FB0-B30C14432958::net10.0::HyperOptimizedTelemetryTests.ToBuffer_lower_neg_long&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
