@@ -119,6 +119,9 @@
   <Folder Name="/tracks-on-tracks-on-tracks/">
     <Project Path="tracks-on-tracks-on-tracks/TracksOnTracksOnTracks.csproj" />
   </Folder>
+  <Folder Name="/two-fer/">
+    <Project Path="two-fer/TwoFer.csproj" />
+  </Folder>
   <Folder Name="/weighing-machine/">
     <Project Path="weighing-machine/WeighingMachine.csproj" />
   </Folder>
