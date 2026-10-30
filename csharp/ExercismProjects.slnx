@@ -17,6 +17,9 @@
   <Folder Name="/calculator-conundrum/">
     <Project Path="calculator-conundrum/CalculatorConundrum.csproj" />
   </Folder>
+  <Folder Name="/cars-assemble/">
+    <Project Path="cars-assemble/CarsAssemble.csproj" />
+  </Folder>
   <Folder Name="/faceid-2/">
     <Project Path="faceid-2/Faceid2.csproj" />
   </Folder>
