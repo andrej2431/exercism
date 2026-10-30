@@ -119,6 +119,9 @@
   <Folder Name="/secure-munchester-united/">
     <Project Path="secure-munchester-united/SecureMunchesterUnited.csproj" />
   </Folder>
+  <Folder Name="/space-age/">
+    <Project Path="space-age/SpaceAge.csproj" />
+  </Folder>
   <Folder Name="/squeaky-clean/">
     <Project Path="squeaky-clean/SqueakyClean.csproj" />
   </Folder>
