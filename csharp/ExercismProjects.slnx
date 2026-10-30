@@ -65,6 +65,9 @@
   <Folder Name="/land-grab-in-space/">
     <Project Path="land-grab-in-space/LandGrabInSpace.csproj" />
   </Folder>
+  <Folder Name="/log-analysis/">
+    <Project Path="log-analysis/LogAnalysis.csproj" />
+  </Folder>
   <Folder Name="/log-levels/">
     <Project Path="log-levels/LogLevels.csproj" />
   </Folder>
