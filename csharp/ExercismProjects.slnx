@@ -68,6 +68,9 @@
   <Folder Name="/remote-control-competition/">
     <Project Path="remote-control-competition/RemoteControlCompetition.csproj" />
   </Folder>
+  <Folder Name="/roll-the-die/">
+    <Project Path="roll-the-die/RollTheDie.csproj" />
+  </Folder>
   <Folder Name="/secure-munchester-united/">
     <Project Path="secure-munchester-united/SecureMunchesterUnited.csproj" />
   </Folder>
