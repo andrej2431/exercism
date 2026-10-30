@@ -35,6 +35,9 @@
   <Folder Name="/hyperia-forex/">
     <Project Path="hyperia-forex/HyperiaForex.csproj" />
   </Folder>
+  <Folder Name="/hyperinflation-hits-hyperia/">
+    <Project Path="hyperinflation-hits-hyperia/HyperinflationHitsHyperia.csproj" />
+  </Folder>
   <Folder Name="/interest-is-interesting/">
     <Project Path="interest-is-interesting/InterestIsInteresting.csproj" />
   </Folder>
