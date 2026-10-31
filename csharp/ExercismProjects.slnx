@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/allergies/">
+    <Project Path="allergies/Allergies.csproj" />
+  </Folder>
   <Folder Name="/annalyns-infiltration/">
     <Project Path="annalyns-infiltration/AnnalynsInfiltration.csproj" />
   </Folder>
