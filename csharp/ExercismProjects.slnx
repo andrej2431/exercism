@@ -122,6 +122,9 @@
   <Folder Name="/resistor-color/">
     <Project Path="resistor-color/ResistorColor.csproj" />
   </Folder>
+  <Folder Name="/robot-name/">
+    <Project Path="robot-name/RobotName.csproj" />
+  </Folder>
   <Folder Name="/roll-the-die/">
     <Project Path="roll-the-die/RollTheDie.csproj" />
   </Folder>
