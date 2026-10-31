@@ -41,6 +41,9 @@
   <Folder Name="/gigasecond/">
     <Project Path="gigasecond/Gigasecond.csproj" />
   </Folder>
+  <Folder Name="/grade-school/">
+    <Project Path="grade-school/GradeSchool.csproj" />
+  </Folder>
   <Folder Name="/hamming/">
     <Project Path="hamming/Hamming.csproj" />
   </Folder>

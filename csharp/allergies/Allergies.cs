@@ -15,11 +15,10 @@ public class Allergies(int mask)
 {
     private Allergen _mask = (Allergen)mask;
 
-    public bool IsAllergicTo(Allergen allergen) => (_mask & allergen) != 0;
+    public bool IsAllergicTo(Allergen allergen) => _mask.HasFlag(allergen);
 
     public Allergen[] List() 
-        => Enum.GetValuesAsUnderlyingType<Allergen>()
-        .Cast<Allergen>()
-        .Where(allergen => (allergen & _mask) != 0)
+        => Enum.GetValues<Allergen>()
+        .Where(allergen => (_mask.HasFlag(allergen)))
         .ToArray();
 }
