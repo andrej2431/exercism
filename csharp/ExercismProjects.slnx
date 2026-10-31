@@ -38,6 +38,9 @@
   <Folder Name="/gigasecond/">
     <Project Path="gigasecond/Gigasecond.csproj" />
   </Folder>
+  <Folder Name="/hamming/">
+    <Project Path="hamming/Hamming.csproj" />
+  </Folder>
   <Folder Name="/hello-world/">
     <Project Path="hello-world/HelloWorld.csproj" />
   </Folder>
