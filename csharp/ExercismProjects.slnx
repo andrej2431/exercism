@@ -29,6 +29,9 @@
   <Folder Name="/cars-assemble/">
     <Project Path="cars-assemble/CarsAssemble.csproj" />
   </Folder>
+  <Folder Name="/circular-buffer/">
+    <Project Path="circular-buffer/CircularBuffer.csproj" />
+  </Folder>
   <Folder Name="/developer-privileges/">
     <Project Path="developer-privileges/DeveloperPrivileges.csproj" />
   </Folder>
