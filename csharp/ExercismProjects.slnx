@@ -134,6 +134,9 @@
   <Folder Name="/roll-the-die/">
     <Project Path="roll-the-die/RollTheDie.csproj" />
   </Folder>
+  <Folder Name="/rotational-cipher/">
+    <Project Path="rotational-cipher/RotationalCipher.csproj" />
+  </Folder>
   <Folder Name="/secure-munchester-united/">
     <Project Path="secure-munchester-united/SecureMunchesterUnited.csproj" />
   </Folder>
